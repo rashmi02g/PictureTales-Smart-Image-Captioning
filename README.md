@@ -1,6 +1,6 @@
 # <u>PictureTales-Smart Image Captioning</u>
 This project generates descriptive captions for images using deep learning. The model takes an input image 
-and returns a relevant caption, aiming to aid visually impaired individuals and enhance image accessibility
+and returns a relevant caption.
 
 ## <u>Overview</u>
 The system leverages a pretrained VGG16 model for feature extraction and a custom captioning model which was trained using LSTM for generating captions. The model is trained on the Flickr8k dataset  
