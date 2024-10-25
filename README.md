@@ -13,3 +13,9 @@ The key components of the project include:
   <br>
 ## Model Anatomy
 ![model](screenshots/Model-Anatomy.png)
+## Outcome
+<img src="screenshots/mainpage.png" alt="Project Image" width="800"/>
+<img src="screenshots/output1.png" alt="Project Image" width="800"/>
+<img src="screenshots/output2.png" alt="Project Image" width="800"/>
+<img src="screenshots/output3.png" alt="Project Image" width="800"/>
+<img src="screenshots/output4.png" alt="Project Image" width="800"/>
